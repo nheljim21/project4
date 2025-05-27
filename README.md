@@ -1,4 +1,8 @@
 # Random Quote Generator
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 A simple web application that displays a random inspirational quote each time you click the "New Quote" button. Great for practicing JavaScript fundamentals and enhancing your portfolio!
 
@@ -20,11 +24,9 @@ A simple web application that displays a random inspirational quote each time yo
 ---
 
 ## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 ---
 
 ## Getting Started
