@@ -4,7 +4,7 @@
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-A simple web application that displays a random inspirational quote each time you click the "New Quote" button. Great for practicing JavaScript fundamentals and enhancing your portfolio!
+A simple web application that displays a random inspirational quote each time you click the *"New Quote"* button. Great for practicing *JavaScript fundamentals* and enhancing your portfolio!
 
 ---
 
@@ -19,9 +19,9 @@ A simple web application that displays a random inspirational quote each time yo
 ## Features
 
 - 🎲 Displays a random quote and its author
-- 🔁 Click "New Quote" to get another random quote
+- 🔁 Click *"New Quote"* to get another random quote
 - 💡 Clean, responsive, and minimal design
-- 🖥️ Built with HTML5, CSS3, and JavaScript (ES6+)
+- 🖥️ Built with **HTML5**, **CSS3**, and **JavaScript (ES6+)**
 
 ---
 
