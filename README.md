@@ -10,7 +10,7 @@ A simple web application that displays a random inspirational quote each time yo
 
 ## Demo
 
-(![Random Quote Generator(1)](https://github.com/user-attachments/assets/e6ead404-b337-41bd-86d8-5090960cc069)![Random Quote Generator(2)](https://github.com/user-attachments/assets/c19b2185-ce7e-4fb8-96b8-4bd88e91aede)
+(![Random Quote Generator(1)]https://github.com/user-attachments/assets/e6ead404-b337-41bd-86d8-5090960cc069)![Random Quote Generator(2)](https://github.com/user-attachments/assets/c19b2185-ce7e-4fb8-96b8-4bd88e91aede
 
 )
 
